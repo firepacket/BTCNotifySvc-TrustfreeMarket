@@ -1,0 +1,6 @@
+C:\Users\User\Dropbox\Bitcoin Stuff\bitcoinsharp\bin\Release\BitCoinSharp.xml
+C:\Users\User\Dropbox\Bitcoin Stuff\bitcoinsharp\bin\Release\BitCoinSharp.dll
+C:\Users\User\Dropbox\Bitcoin Stuff\bitcoinsharp\bin\Release\BitCoinSharp.pdb
+C:\Users\User\Dropbox\Bitcoin Stuff\bitcoinsharp\src\Core\obj\Release\BitCoinSharp.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\Bitcoin Stuff\bitcoinsharp\src\Core\obj\Release\BitCoinSharp.dll
+C:\Users\User\Dropbox\Bitcoin Stuff\bitcoinsharp\src\Core\obj\Release\BitCoinSharp.pdb

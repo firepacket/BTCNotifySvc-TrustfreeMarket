@@ -1,0 +1,14 @@
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\bin\Debug\TestForm.exe
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\bin\Debug\TestForm.pdb
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\bin\Debug\BitCoinSharp.dll
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\bin\Debug\log4net.dll
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\bin\Debug\BitCoinSharp.pdb
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\bin\Debug\log4net.xml
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\obj\Debug\TestForm.exe
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\TestForm\obj\Debug\TestForm.pdb

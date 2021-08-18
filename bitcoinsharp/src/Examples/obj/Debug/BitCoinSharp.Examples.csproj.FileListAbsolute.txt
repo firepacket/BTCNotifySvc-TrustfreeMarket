@@ -1,0 +1,5 @@
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\bin\Debug\BitCoinSharp.Examples.exe
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\bin\Debug\BitCoinSharp.Examples.pdb
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\Examples\obj\Debug\BitCoinSharp.Examples.csprojResolveAssemblyReference.cache
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\Examples\obj\Debug\BitCoinSharp.Examples.exe
+C:\Users\flameboy\Desktop\Dropbox\Bitcoin Stuff\bitcoinsharp\src\Examples\obj\Debug\BitCoinSharp.Examples.pdb
