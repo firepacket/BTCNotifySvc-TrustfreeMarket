@@ -17,3 +17,5 @@ The site can be used without this by using other services, but this is a nice an
 It is based off BitcoinSharp which is a C# port of BitcoinJ. I have fixed most of the bugs and this app appears to work well for me in testing.
 
 It also allows you to inject fake transactions to simulate payment for website testing.
+
+Please ask any questions you might have about how to use this service with trustfree market! This application WAS working as intended with the open source version of the application posted here! There may have been a few changes since then that no longer make it compatible. If it's not working for you, please let me know and I will fix!
