@@ -2,7 +2,7 @@
 
 The Trustfree.Market windows GUI companion app that listens for transactions to the Escrow address and alerts the Website in real-time using long-polling or websockets. Also shows incoming transactions to old bitcoin addresses and shows network stats.
 
-![GUI](https://github.com/firepacket/BTCNotifySvc-TrustfreeMarket/ss.jpg)
+![GUI](https://github.com/firepacket/BTCNotifySvc-TrustfreeMarket/blob/main/ss.jpg)
 
 When an Escrow is created between too parties, it uses a Named Pipe to send the information to this service which listens to any Bitcoin Node for transactions to the escrow addresss.
 
